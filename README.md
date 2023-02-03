@@ -11,5 +11,5 @@ In this project, you will play against a computer opponent in a classic game of 
 3. Follow the on-screen instructions and enjoy the game!
 
 <h2>Contact</h2>
-Feel free to reach out to me with any questions or feedback. You can find my contact information
-[here](https://chat.openai.com/chat).
+Feel free to reach out to me with any questions or feedback. You can find my contact information on
+[my LinkedIn Profile.](https://linkedin.com/in/mantas-maciulis)
