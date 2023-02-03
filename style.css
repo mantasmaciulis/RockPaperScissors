@@ -1,0 +1,14 @@
+.title{
+    color: #809BCE;
+    text-align: center;
+}
+#moveChoices{
+    display:flex;
+    color:aqua;
+    justify-content: center;
+    gap: 10px;
+}
+#result{
+    color: #809BCE;
+    text-align: center;
+}
