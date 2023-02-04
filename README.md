@@ -12,3 +12,4 @@ In this project, you will play against a computer opponent in a classic game of 
 
 <h2>Contact</h2>
 Feel free to reach out to me with any questions or feedback. You can find my contact information on my LinkedIn [profile](https://linkedin.com/in/mantas-maciulis)
+# etch-a-sketch
